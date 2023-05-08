@@ -1,4 +1,11 @@
-#This code is meant to read the Vicon UDP stream, and extract the data from within it.
+"""
+Vicon UDP Stream - python_udp_read_raw_data.py
+Author: Guy Maalouf
+Date: May 12, 2023
+
+This code is meant to read the Vicon UDP stream, and extract the data from within it.
+"""
+
 import sys
 import struct
 import socket
