@@ -10,13 +10,15 @@ Before running any of the scripts, please ensure that you are connected to the s
 
 ## Requirements
 Python 3.5
-numpy library
-socket library
+numpy==1.24.2
 
 ## Usage
 1- Clone the repository: git clone https://github.com/username/repo.git
+
 2- Install the required libraries using pip: pip install -r requirements.txt
+
 3- Ensure that your computer is connected to the same network/WiFi as the Vicon Vision System.
+
 4- Run the desired script using the command: python script_name.py.
 
 
